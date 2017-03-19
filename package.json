@@ -1,0 +1,27 @@
+{
+  "name": "limited-permutation",
+  "version": "0.0.1",
+  "description": "Generate a limited permutations",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha lib/*_test.js"
+  },
+  "keywords": [
+    "array",
+    "permutation"
+  ],
+  "author": "ktrysmt <kotaro.yoshimatsu@gmail.com>",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "http://github.com/ktrysmt/limited-permutation.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-standard": "^7.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1",
+    "mocha": "^3.2.0"
+  }
+}
