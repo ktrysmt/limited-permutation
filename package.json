@@ -1,7 +1,7 @@
 {
   "name": "limited-permutation",
-  "version": "0.0.1",
-  "description": "Generate a limited permutations",
+  "version": "0.0.2",
+  "description": "Generate a limited permutation.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha lib/*_test.js"

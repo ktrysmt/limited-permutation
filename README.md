@@ -1,6 +1,6 @@
 # limited-permutation
 
-> Generate a limited permutations, for NodeJS
+> Generate a limited permutation, for NodeJS
 
 ## Install
 
